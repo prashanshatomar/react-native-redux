@@ -1,0 +1,12 @@
+{
+  "name": "react-native-redux",
+  "displayName": "react-native-redux",
+  "expo": {
+    "name": "react-native-redux",
+    "slug": "react-native-redux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
